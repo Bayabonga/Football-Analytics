@@ -10,7 +10,7 @@
 ## Installation & How to use?
 
 Steps:
-1. Clone the repository using the command `git clone https://github.com/Bayabonga/FootballAnalytics.git `
+1. Clone the repository
 2. Install the required libraries listed in the file `requirement.txt`, you can use the command `conda env create -f environment.yml` to create the conda env I use but make sure the pytorch installation is compatible with your machine.
 3. Use the command `steamlit run main.py` to start the application.
     
